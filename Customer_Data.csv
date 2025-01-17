@@ -1,0 +1,1744 @@
+Customer Name,Age,Gender,Location,Choice of Beer,Prices
+Customer 1,21,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 2,21,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 3,23,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 4,21,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 5,34,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 6,26,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 7,31,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 8,21,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 9,23,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 10,22,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 11,28,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 12,25,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 13,22,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 14,23,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 15,21,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 16,24,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 17,29,Female,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 18,28,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 19,26,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 20,31,Male,Near Shop A,Budweiser Can (Pack of 6),600
+Customer 21,38,Female,Near Shop A,Budweiser Bottle (Pack of 6),660
+Customer 22,39,Male,Near Shop A,Budweiser Bottle (Pack of 6),660
+Customer 23,62,Female,Near Shop A,Budweiser Bottle (Pack of 6),660
+Customer 24,49,Male,Near Shop A,Budweiser Bottle (Pack of 6),660
+Customer 25,62,Male,Near Shop A,Budweiser Bottle (Pack of 6),660
+Customer 26,48,Male,Near Shop A,Budweiser Bottle (Pack of 6),660
+Customer 27,26,Female,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 28,21,Male,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 29,23,Male,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 30,33,Male,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 31,35,Male,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 32,32,Male,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 33,24,Male,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 34,32,Male,Near Shop A,Budweiser Can (Pack of 12),1100
+Customer 35,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 36,24,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 37,24,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 38,23,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 39,30,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 40,29,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 41,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 42,24,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 43,24,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 44,32,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 45,32,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 46,35,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 47,24,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 48,26,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 49,25,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 50,34,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 51,23,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 52,34,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 53,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 54,30,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 55,26,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 56,26,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 57,23,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 58,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 59,23,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 60,35,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 61,31,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 62,24,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 63,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 64,29,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 65,30,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 66,29,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 67,31,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 68,29,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 69,35,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 70,35,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 71,30,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 72,30,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 73,31,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 74,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 75,31,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 76,28,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 77,29,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 78,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 79,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 80,35,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 81,34,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 82,34,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 83,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 84,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 85,35,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 86,35,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 87,30,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 88,32,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 89,24,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 90,25,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 91,29,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 92,28,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 93,25,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 94,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 95,34,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 96,25,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 97,27,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 98,23,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 99,29,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 100,29,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 101,29,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 102,29,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 103,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 104,35,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 105,24,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 106,27,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 107,24,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 108,32,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 109,22,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 110,26,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 111,21,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 112,31,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 113,26,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 114,35,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 115,22,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 116,31,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 117,33,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 118,30,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 119,24,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 120,25,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 121,30,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 122,22,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 123,27,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 124,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 125,31,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 126,32,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 127,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 128,35,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 129,33,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 130,26,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 131,34,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 132,23,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 133,27,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 134,22,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 135,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 136,26,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 137,26,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 138,28,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 139,21,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 140,32,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 141,28,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 142,32,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 143,27,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 144,34,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 145,32,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 146,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 147,21,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 148,33,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 149,25,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 150,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 151,34,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 152,32,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 153,31,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 154,22,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 155,23,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 156,24,Male,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 157,25,Female,Near Shop A,Stella Artois Can (Pack of 6),660
+Customer 158,51,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 159,38,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 160,39,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 161,44,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 162,36,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 163,63,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 164,49,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 165,61,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 166,40,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 167,38,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 168,52,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 169,44,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 170,49,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 171,56,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 172,56,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 173,44,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 174,56,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 175,46,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 176,36,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 177,44,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 178,46,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 179,64,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 180,65,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 181,48,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 182,57,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 183,50,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 184,63,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 185,40,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 186,41,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 187,61,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 188,54,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 189,50,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 190,47,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 191,44,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 192,45,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 193,41,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 194,62,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 195,55,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 196,39,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 197,53,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 198,36,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 199,47,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 200,45,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 201,40,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 202,53,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 203,41,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 204,55,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 205,44,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 206,40,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 207,48,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 208,38,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 209,61,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 210,48,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 211,46,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 212,49,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 213,55,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 214,53,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 215,38,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 216,37,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 217,57,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 218,64,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 219,41,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 220,41,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 221,61,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 222,52,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 223,58,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 224,39,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 225,57,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 226,55,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 227,43,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 228,58,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 229,52,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 230,39,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 231,36,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 232,50,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 233,44,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 234,46,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 235,40,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 236,52,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 237,45,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 238,63,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 239,57,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 240,60,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 241,59,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 242,52,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 243,62,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 244,44,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 245,38,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 246,47,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 247,54,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 248,43,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 249,38,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 250,49,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 251,36,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 252,63,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 253,54,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 254,60,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 255,63,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 256,40,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 257,44,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 258,49,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 259,59,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 260,38,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 261,53,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 262,51,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 263,40,Male,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 264,60,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 265,52,Female,Near Shop A,Stella Artois Bottle (Pack of 6),720
+Customer 266,23,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 267,35,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 268,33,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 269,27,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 270,21,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 271,25,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 272,27,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 273,27,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 274,22,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 275,31,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 276,32,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 277,26,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 278,35,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 279,27,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 280,35,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 281,21,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 282,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 283,30,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 284,27,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 285,28,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 286,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 287,25,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 288,35,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 289,23,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 290,21,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 291,21,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 292,27,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 293,35,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 294,29,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 295,30,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 296,21,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 297,27,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 298,34,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 299,34,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 300,32,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 301,32,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 302,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 303,23,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 304,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 305,24,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 306,21,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 307,26,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 308,35,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 309,29,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 310,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 311,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 312,27,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 313,34,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 314,32,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 315,25,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 316,23,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 317,24,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 318,25,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 319,26,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 320,29,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 321,22,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 322,22,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 323,30,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 324,31,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 325,23,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 326,30,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 327,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 328,24,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 329,30,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 330,33,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 331,23,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 332,34,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 333,34,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 334,30,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 335,21,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 336,23,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 337,22,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 338,26,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 339,32,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 340,31,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 341,35,Male,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 342,34,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 343,21,Female,Near Shop A,Stella Artois Can (Pack of 12),1200
+Customer 344,25,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 345,23,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 346,25,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 347,25,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 348,23,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 349,28,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 350,24,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 351,27,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 352,34,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 353,22,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 354,24,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 355,22,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 356,22,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 357,35,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 358,29,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 359,23,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 360,31,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 361,23,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 362,23,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 363,26,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 364,32,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 365,31,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 366,21,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 367,21,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 368,28,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 369,29,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 370,30,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 371,32,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 372,26,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 373,29,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 374,23,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 375,33,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 376,29,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 377,30,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 378,23,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 379,30,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 380,27,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 381,28,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 382,25,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 383,28,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 384,25,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 385,23,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 386,30,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 387,28,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 388,21,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 389,27,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 390,26,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 391,26,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 392,22,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 393,31,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 394,30,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 395,35,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 396,21,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 397,33,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 398,23,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 399,31,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 400,29,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 401,26,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 402,24,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 403,23,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 404,33,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 405,26,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 406,35,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 407,35,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 408,34,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 409,33,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 410,24,Male,Near Shop A,Competitor Can (Pack of 6),540
+Customer 411,29,Female,Near Shop A,Competitor Can (Pack of 6),540
+Customer 412,42,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 413,47,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 414,62,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 415,65,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 416,46,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 417,48,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 418,40,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 419,53,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 420,60,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 421,52,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 422,39,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 423,60,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 424,44,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 425,36,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 426,37,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 427,41,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 428,38,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 429,50,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 430,46,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 431,37,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 432,50,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 433,56,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 434,45,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 435,43,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 436,62,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 437,52,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 438,43,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 439,51,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 440,43,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 441,59,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 442,58,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 443,36,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 444,50,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 445,51,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 446,50,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 447,37,Female,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 448,63,Male,Near Shop A,Competitor Bottle (Pack of 6),600
+Customer 449,30,Male,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 450,23,Female,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 451,25,Female,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 452,30,Female,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 453,33,Female,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 454,30,Male,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 455,35,Female,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 456,22,Male,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 457,24,Male,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 458,22,Male,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 459,28,Male,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 460,26,Male,Near Shop A,Competitor Can (Pack of 12),1000
+Customer 1,22,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 2,26,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 3,35,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 4,28,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 5,34,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 6,25,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 7,25,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 8,30,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 9,34,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 10,31,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 11,30,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 12,34,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 13,33,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 14,21,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 15,28,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 16,24,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 17,33,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 18,27,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 19,35,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 20,29,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 21,31,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 22,32,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 23,28,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 24,30,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 25,27,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 26,34,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 27,35,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 28,24,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 29,21,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 30,25,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 31,34,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 32,26,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 33,32,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 34,29,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 35,32,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 36,35,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 37,26,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 38,21,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 39,26,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 40,23,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 41,21,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 42,31,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 43,28,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 44,32,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 45,27,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 46,30,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 47,29,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 48,24,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 49,26,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 50,27,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 51,23,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 52,35,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 53,27,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 54,22,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 55,31,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 56,21,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 57,32,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 58,26,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 59,34,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 60,26,Female,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 61,30,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 62,32,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 63,24,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 64,23,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 65,25,Male,Near Shop B,Budweiser Can (Pack of 6),600
+Customer 66,42,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 67,46,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 68,60,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 69,57,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 70,39,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 71,50,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 72,37,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 73,41,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 74,47,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 75,37,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 76,55,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 77,63,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 78,58,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 79,65,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 80,54,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 81,49,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 82,57,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 83,41,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 84,41,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 85,52,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 86,55,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 87,49,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 88,61,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 89,40,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 90,59,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 91,39,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 92,37,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 93,43,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 94,65,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 95,49,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 96,62,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 97,65,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 98,47,Female,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 99,43,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 100,60,Male,Near Shop B,Budweiser Bottle (Pack of 6),660
+Customer 101,33,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 102,21,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 103,32,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 104,29,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 105,28,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 106,33,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 107,25,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 108,22,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 109,27,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 110,26,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 111,32,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 112,31,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 113,24,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 114,25,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 115,32,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 116,25,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 117,25,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 118,31,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 119,33,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 120,26,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 121,33,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 122,26,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 123,35,Female,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 124,27,Male,Near Shop B,Budweiser Can (Pack of 12),1100
+Customer 125,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 126,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 127,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 128,24,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 129,27,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 130,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 131,25,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 132,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 133,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 134,22,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 135,28,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 136,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 137,29,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 138,34,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 139,21,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 140,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 141,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 142,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 143,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 144,21,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 145,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 146,35,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 147,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 148,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 149,29,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 150,22,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 151,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 152,31,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 153,28,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 154,28,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 155,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 156,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 157,24,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 158,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 159,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 160,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 161,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 162,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 163,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 164,26,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 165,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 166,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 167,35,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 168,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 169,26,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 170,21,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 171,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 172,22,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 173,24,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 174,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 175,35,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 176,34,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 177,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 178,21,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 179,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 180,29,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 181,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 182,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 183,30,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 184,21,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 185,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 186,26,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 187,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 188,30,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 189,29,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 190,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 191,28,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 192,33,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 193,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 194,29,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 195,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 196,35,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 197,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 198,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 199,29,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 200,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 201,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 202,27,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 203,27,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 204,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 205,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 206,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 207,29,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 208,29,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 209,35,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 210,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 211,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 212,26,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 213,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 214,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 215,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 216,35,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 217,33,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 218,27,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 219,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 220,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 221,31,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 222,31,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 223,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 224,27,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 225,32,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 226,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 227,33,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 228,28,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 229,27,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 230,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 231,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 232,24,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 233,24,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 234,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 235,33,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 236,26,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 237,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 238,23,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 239,27,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 240,35,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 241,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 242,25,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 243,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 244,25,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 245,29,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 246,34,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 247,27,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 248,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 249,35,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 250,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 251,32,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 252,27,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 253,27,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 254,32,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 255,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 256,33,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 257,22,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 258,27,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 259,26,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 260,27,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 261,35,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 262,25,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 263,32,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 264,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 265,29,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 266,30,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 267,34,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 268,21,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 269,31,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 270,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 271,32,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 272,24,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 273,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 274,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 275,30,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 276,31,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 277,28,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 278,27,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 279,33,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 280,30,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 281,30,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 282,26,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 283,33,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 284,32,Female,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 285,34,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 286,35,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 287,28,Male,Near Shop B,Stella Artois Can (Pack of 6),660
+Customer 288,39,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 289,44,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 290,55,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 291,43,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 292,54,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 293,48,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 294,43,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 295,44,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 296,42,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 297,36,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 298,42,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 299,56,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 300,41,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 301,57,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 302,45,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 303,48,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 304,49,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 305,42,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 306,51,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 307,64,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 308,47,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 309,40,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 310,57,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 311,48,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 312,53,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 313,54,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 314,50,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 315,45,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 316,57,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 317,59,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 318,53,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 319,38,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 320,58,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 321,37,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 322,58,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 323,37,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 324,53,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 325,55,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 326,61,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 327,59,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 328,57,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 329,46,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 330,56,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 331,36,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 332,46,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 333,38,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 334,60,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 335,49,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 336,39,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 337,41,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 338,56,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 339,56,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 340,63,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 341,46,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 342,36,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 343,48,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 344,53,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 345,44,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 346,64,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 347,46,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 348,61,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 349,52,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 350,65,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 351,61,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 352,37,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 353,49,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 354,60,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 355,53,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 356,65,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 357,55,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 358,47,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 359,49,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 360,54,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 361,45,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 362,42,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 363,59,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 364,44,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 365,57,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 366,61,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 367,38,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 368,47,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 369,47,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 370,59,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 371,39,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 372,40,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 373,52,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 374,62,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 375,36,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 376,45,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 377,51,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 378,55,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 379,64,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 380,62,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 381,60,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 382,61,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 383,47,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 384,58,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 385,62,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 386,55,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 387,63,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 388,36,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 389,40,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 390,44,Male,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 391,64,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 392,45,Female,Near Shop B,Stella Artois Bottle (Pack of 6),720
+Customer 393,22,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 394,33,Female,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 395,31,Female,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 396,21,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 397,34,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 398,26,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 399,25,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 400,26,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 401,35,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 402,32,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 403,25,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 404,29,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 405,27,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 406,24,Female,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 407,28,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 408,22,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 409,28,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 410,32,Female,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 411,21,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 412,22,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 413,30,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 414,27,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 415,32,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 416,32,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 417,35,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 418,25,Female,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 419,24,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 420,24,Male,Near Shop B,Stella Artois Can (Pack of 12),1200
+Customer 421,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 422,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 423,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 424,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 425,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 426,22,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 427,27,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 428,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 429,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 430,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 431,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 432,31,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 433,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 434,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 435,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 436,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 437,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 438,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 439,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 440,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 441,28,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 442,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 443,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 444,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 445,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 446,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 447,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 448,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 449,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 450,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 451,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 452,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 453,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 454,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 455,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 456,31,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 457,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 458,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 459,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 460,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 461,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 462,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 463,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 464,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 465,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 466,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 467,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 468,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 469,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 470,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 471,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 472,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 473,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 474,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 475,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 476,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 477,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 478,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 479,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 480,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 481,34,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 482,34,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 483,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 484,26,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 485,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 486,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 487,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 488,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 489,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 490,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 491,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 492,25,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 493,26,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 494,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 495,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 496,22,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 497,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 498,26,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 499,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 500,26,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 501,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 502,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 503,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 504,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 505,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 506,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 507,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 508,25,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 509,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 510,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 511,34,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 512,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 513,25,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 514,22,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 515,22,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 516,25,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 517,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 518,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 519,27,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 520,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 521,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 522,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 523,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 524,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 525,26,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 526,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 527,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 528,24,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 529,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 530,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 531,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 532,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 533,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 534,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 535,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 536,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 537,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 538,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 539,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 540,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 541,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 542,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 543,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 544,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 545,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 546,31,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 547,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 548,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 549,27,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 550,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 551,28,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 552,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 553,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 554,27,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 555,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 556,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 557,27,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 558,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 559,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 560,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 561,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 562,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 563,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 564,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 565,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 566,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 567,22,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 568,22,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 569,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 570,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 571,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 572,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 573,25,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 574,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 575,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 576,34,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 577,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 578,32,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 579,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 580,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 581,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 582,31,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 583,27,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 584,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 585,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 586,27,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 587,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 588,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 589,28,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 590,32,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 591,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 592,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 593,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 594,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 595,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 596,32,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 597,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 598,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 599,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 600,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 601,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 602,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 603,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 604,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 605,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 606,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 607,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 608,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 609,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 610,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 611,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 612,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 613,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 614,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 615,31,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 616,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 617,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 618,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 619,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 620,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 621,25,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 622,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 623,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 624,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 625,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 626,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 627,32,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 628,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 629,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 630,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 631,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 632,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 633,24,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 634,24,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 635,28,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 636,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 637,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 638,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 639,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 640,32,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 641,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 642,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 643,34,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 644,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 645,32,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 646,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 647,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 648,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 649,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 650,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 651,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 652,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 653,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 654,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 655,24,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 656,34,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 657,27,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 658,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 659,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 660,34,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 661,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 662,32,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 663,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 664,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 665,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 666,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 667,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 668,35,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 669,21,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 670,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 671,27,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 672,33,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 673,26,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 674,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 675,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 676,21,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 677,23,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 678,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 679,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 680,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 681,31,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 682,35,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 683,29,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 684,30,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 685,23,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 686,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 687,22,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 688,25,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 689,29,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 690,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 691,30,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 692,32,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 693,26,Male,Near Shop B,Competitor Can (Pack of 6),540
+Customer 694,34,Female,Near Shop B,Competitor Can (Pack of 6),540
+Customer 695,64,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 696,36,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 697,55,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 698,62,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 699,40,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 700,57,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 701,58,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 702,61,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 703,39,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 704,47,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 705,40,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 706,51,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 707,58,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 708,53,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 709,47,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 710,45,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 711,39,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 712,62,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 713,60,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 714,54,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 715,43,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 716,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 717,36,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 718,57,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 719,62,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 720,57,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 721,40,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 722,45,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 723,36,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 724,63,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 725,42,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 726,43,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 727,64,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 728,36,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 729,44,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 730,58,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 731,50,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 732,40,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 733,43,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 734,44,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 735,57,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 736,61,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 737,38,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 738,62,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 739,39,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 740,40,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 741,46,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 742,51,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 743,36,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 744,53,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 745,37,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 746,58,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 747,62,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 748,40,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 749,63,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 750,41,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 751,40,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 752,53,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 753,42,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 754,39,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 755,44,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 756,63,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 757,53,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 758,45,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 759,55,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 760,59,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 761,36,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 762,60,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 763,62,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 764,61,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 765,59,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 766,64,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 767,57,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 768,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 769,65,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 770,55,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 771,50,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 772,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 773,64,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 774,61,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 775,62,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 776,46,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 777,41,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 778,43,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 779,47,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 780,36,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 781,54,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 782,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 783,62,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 784,57,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 785,41,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 786,60,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 787,61,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 788,47,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 789,54,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 790,58,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 791,48,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 792,47,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 793,61,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 794,43,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 795,40,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 796,65,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 797,48,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 798,58,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 799,49,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 800,39,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 801,53,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 802,42,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 803,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 804,54,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 805,63,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 806,48,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 807,43,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 808,50,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 809,63,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 810,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 811,42,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 812,41,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 813,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 814,48,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 815,59,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 816,53,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 817,59,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 818,53,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 819,51,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 820,46,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 821,61,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 822,55,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 823,50,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 824,49,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 825,44,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 826,54,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 827,46,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 828,51,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 829,56,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 830,63,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 831,37,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 832,52,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 833,60,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 834,61,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 835,56,Female,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 836,47,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 837,41,Male,Near Shop B,Competitor Bottle (Pack of 6),600
+Customer 838,22,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 839,34,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 840,29,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 841,27,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 842,22,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 843,26,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 844,24,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 845,29,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 846,25,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 847,27,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 848,31,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 849,35,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 850,24,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 851,28,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 852,32,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 853,29,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 854,28,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 855,30,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 856,34,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 857,26,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 858,25,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 859,35,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 860,30,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 861,28,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 862,30,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 863,28,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 864,24,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 865,34,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 866,23,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 867,34,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 868,24,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 869,31,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 870,31,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 871,25,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 872,26,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 873,21,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 874,29,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 875,21,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 876,24,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 877,27,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 878,31,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 879,23,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 880,22,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 881,32,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 882,25,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 883,29,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 884,26,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 885,23,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 886,28,Female,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 887,22,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 888,35,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 889,33,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 890,23,Male,Near Shop B,Competitor Can (Pack of 12),1000
+Customer 1,35,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 2,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 3,30,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 4,24,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 5,30,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 6,34,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 7,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 8,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 9,24,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 10,29,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 11,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 12,28,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 13,27,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 14,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 15,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 16,28,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 17,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 18,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 19,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 20,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 21,34,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 22,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 23,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 24,34,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 25,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 26,35,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 27,22,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 28,35,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 29,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 30,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 31,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 32,31,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 33,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 34,21,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 35,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 36,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 37,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 38,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 39,34,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 40,27,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 41,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 42,35,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 43,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 44,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 45,33,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 46,27,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 47,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 48,35,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 49,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 50,25,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 51,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 52,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 53,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 54,32,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 55,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 56,27,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 57,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 58,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 59,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 60,35,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 61,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 62,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 63,32,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 64,29,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 65,35,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 66,33,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 67,31,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 68,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 69,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 70,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 71,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 72,23,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 73,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 74,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 75,26,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 76,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 77,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 78,35,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 79,35,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 80,29,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 81,25,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 82,32,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 83,28,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 84,27,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 85,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 86,35,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 87,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 88,30,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 89,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 90,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 91,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 92,30,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 93,25,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 94,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 95,33,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 96,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 97,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 98,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 99,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 100,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 101,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 102,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 103,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 104,23,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 105,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 106,29,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 107,35,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 108,31,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 109,29,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 110,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 111,30,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 112,32,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 113,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 114,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 115,21,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 116,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 117,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 118,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 119,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 120,29,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 121,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 122,34,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 123,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 124,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 125,29,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 126,27,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 127,21,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 128,32,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 129,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 130,30,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 131,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 132,34,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 133,35,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 134,34,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 135,29,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 136,22,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 137,22,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 138,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 139,25,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 140,33,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 141,22,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 142,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 143,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 144,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 145,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 146,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 147,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 148,24,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 149,32,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 150,28,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 151,27,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 152,27,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 153,29,Female,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 154,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 155,21,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 156,22,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 157,32,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 158,32,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 159,30,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 160,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 161,23,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 162,31,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 163,26,Male,Near Shop C,Budweiser Can (Pack of 6),600
+Customer 164,52,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 165,41,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 166,51,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 167,50,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 168,36,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 169,54,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 170,47,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 171,36,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 172,63,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 173,48,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 174,44,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 175,57,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 176,38,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 177,54,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 178,59,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 179,37,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 180,37,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 181,44,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 182,40,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 183,44,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 184,40,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 185,54,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 186,47,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 187,47,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 188,41,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 189,51,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 190,59,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 191,48,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 192,43,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 193,40,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 194,59,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 195,39,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 196,55,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 197,37,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 198,63,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 199,59,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 200,53,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 201,63,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 202,58,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 203,52,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 204,47,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 205,39,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 206,42,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 207,59,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 208,53,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 209,51,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 210,48,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 211,38,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 212,38,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 213,37,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 214,57,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 215,46,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 216,39,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 217,55,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 218,37,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 219,59,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 220,45,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 221,41,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 222,41,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 223,46,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 224,41,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 225,46,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 226,37,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 227,43,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 228,46,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 229,47,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 230,53,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 231,41,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 232,57,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 233,55,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 234,53,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 235,38,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 236,62,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 237,47,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 238,42,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 239,63,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 240,51,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 241,63,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 242,37,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 243,64,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 244,40,Male,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 245,41,Female,Near Shop C,Budweiser Bottle (Pack of 6),660
+Customer 246,22,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 247,24,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 248,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 249,26,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 250,28,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 251,34,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 252,28,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 253,22,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 254,35,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 255,31,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 256,22,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 257,25,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 258,25,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 259,33,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 260,21,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 261,21,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 262,24,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 263,30,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 264,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 265,25,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 266,33,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 267,32,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 268,24,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 269,23,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 270,22,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 271,24,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 272,25,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 273,31,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 274,33,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 275,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 276,35,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 277,33,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 278,33,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 279,24,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 280,23,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 281,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 282,29,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 283,31,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 284,32,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 285,26,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 286,32,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 287,31,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 288,35,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 289,27,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 290,25,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 291,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 292,26,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 293,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 294,29,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 295,22,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 296,22,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 297,25,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 298,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 299,26,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 300,31,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 301,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 302,29,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 303,27,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 304,34,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 305,28,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 306,23,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 307,21,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 308,33,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 309,35,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 310,27,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 311,22,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 312,29,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 313,32,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 314,33,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 315,29,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 316,33,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 317,27,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 318,27,Male,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 319,26,Female,Near Shop C,Budweiser Can (Pack of 12),1100
+Customer 320,26,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 321,22,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 322,35,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 323,30,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 324,26,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 325,32,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 326,27,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 327,28,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 328,32,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 329,21,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 330,35,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 331,22,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 332,34,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 333,25,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 334,32,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 335,24,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 336,27,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 337,22,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 338,26,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 339,34,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 340,32,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 341,33,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 342,21,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 343,27,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 344,31,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 345,29,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 346,29,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 347,29,Female,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 348,33,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 349,34,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 350,26,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 351,34,Male,Near Shop C,Stella Artois Can (Pack of 6),660
+Customer 352,63,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 353,41,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 354,59,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 355,53,Female,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 356,57,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 357,44,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 358,64,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 359,41,Female,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 360,60,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 361,63,Male,Near Shop C,Stella Artois Bottle (Pack of 6),720
+Customer 362,25,Male,Near Shop C,Stella Artois Can (Pack of 12),1200
+Customer 363,30,Female,Near Shop C,Stella Artois Can (Pack of 12),1200
+Customer 364,32,Male,Near Shop C,Stella Artois Can (Pack of 12),1200
+Customer 365,23,Female,Near Shop C,Stella Artois Can (Pack of 12),1200
+Customer 366,32,Male,Near Shop C,Stella Artois Can (Pack of 12),1200
+Customer 367,25,Female,Near Shop C,Competitor Can (Pack of 6),540
+Customer 368,25,Female,Near Shop C,Competitor Can (Pack of 6),540
+Customer 369,34,Female,Near Shop C,Competitor Can (Pack of 6),540
+Customer 370,29,Male,Near Shop C,Competitor Can (Pack of 6),540
+Customer 371,28,Male,Near Shop C,Competitor Can (Pack of 6),540
+Customer 372,29,Male,Near Shop C,Competitor Can (Pack of 6),540
+Customer 373,31,Female,Near Shop C,Competitor Can (Pack of 6),540
+Customer 374,24,Male,Near Shop C,Competitor Can (Pack of 6),540
+Customer 375,22,Female,Near Shop C,Competitor Can (Pack of 6),540
+Customer 376,31,Female,Near Shop C,Competitor Can (Pack of 6),540
+Customer 377,25,Female,Near Shop C,Competitor Can (Pack of 6),540
+Customer 378,53,Male,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 379,45,Female,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 380,44,Male,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 381,45,Male,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 382,36,Male,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 383,42,Male,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 384,63,Female,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 385,50,Female,Near Shop C,Competitor Bottle (Pack of 6),600
+Customer 386,22,Female,Near Shop C,Competitor Can (Pack of 12),1000
+Customer 387,30,Male,Near Shop C,Competitor Can (Pack of 12),1000
+Customer 388,26,Female,Near Shop C,Competitor Can (Pack of 12),1000
+Customer 389,29,Female,Near Shop C,Competitor Can (Pack of 12),1000
+Customer 390,25,Male,Near Shop C,Competitor Can (Pack of 12),1000
+Customer 391,34,Female,Near Shop C,Competitor Can (Pack of 12),1000
+Customer 392,31,Female,Near Shop C,Competitor Can (Pack of 12),1000
+Customer 393,23,Male,Near Shop C,Competitor Can (Pack of 12),1000
